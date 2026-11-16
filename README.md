@@ -275,3 +275,5 @@ All 15 tests run in under 2 seconds and test:
    ```bash
    gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 127.0.0.1:8000
    ```
+#   s t u d e n t - q r - l u n c h - s y s t e m  
+ 
