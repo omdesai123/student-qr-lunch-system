@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Student QR Lunch Coupon System{% endblock %}</title>
+  <link rel="stylesheet" href="/static/css/styles.css">
+  {% block extra_css %}{% endblock %}
+</head>
+<body>
+  <!-- Global Application Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <a href="/" class="brand-group">
+        <div class="brand-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="3" width="7" height="7"></rect>
+            <rect x="14" y="3" width="7" height="7"></rect>
+            <rect x="14" y="14" width="7" height="7"></rect>
+            <rect x="3" y="14" width="7" height="7"></rect>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Campus Dining</h1>
+          <span>QR Lunch Coupon System</span>
+        </div>
+      </a>
+
+      <nav class="header-nav" id="header-nav">
+        {% block nav_links %}
+          <a href="/login" class="nav-link">Portal Login</a>
+        {% endblock %}
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Body Content -->
+  <main class="main-wrapper">
+    {% block content %}{% endblock %}
+  </main>
+
+  <script src="/static/js/api.js"></script>
+  {% block extra_js %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,501 @@
+student_id,name,department,year,password,is_active
+STU2026001,Priyanka Rao,Computer Science,3,STU2026001,true
+STU2026002,Ayaan Reddy,Electrical Engineering,1,STU2026002,true
+STU2026003,Aditya Verma,Computer Science,2,STU2026003,true
+STU2026004,Deepak Verma,Civil Engineering,2,STU2026004,true
+STU2026005,Rashmi Bansal,Mechanical Engineering,2,STU2026005,true
+STU2026006,Diya Sharma,Information Technology,4,STU2026006,true
+STU2026007,Krishna Deshmukh,Electronics & Communication,1,STU2026007,true
+STU2026008,Muhammad Bose,Electronics & Communication,3,STU2026008,true
+STU2026009,Tarun Mishra,Civil Engineering,1,STU2026009,true
+STU2026010,Myra Nair,Civil Engineering,3,STU2026010,true
+STU2026011,Nikhil Sengupta,Civil Engineering,2,STU2026011,true
+STU2026012,Aditya Kulkarni,Electronics & Communication,1,STU2026012,true
+STU2026013,Muhammad Pillai,Electronics & Communication,4,STU2026013,true
+STU2026014,Anushka Gupta,Electronics & Communication,3,STU2026014,true
+STU2026015,Diya Iyer,Civil Engineering,2,STU2026015,true
+STU2026016,Rohan Gupta,Mechanical Engineering,4,STU2026016,true
+STU2026017,Priyanka Garg,Information Technology,3,STU2026017,true
+STU2026018,Ramesh Mehta,Information Technology,1,STU2026018,true
+STU2026019,Isha Kapoor,Computer Science,2,STU2026019,true
+STU2026020,Gautam Mukherjee,Information Technology,4,STU2026020,true
+STU2026021,Shruti Mishra,Information Technology,3,STU2026021,true
+STU2026022,Harish Garg,Civil Engineering,3,STU2026022,true
+STU2026023,Kavya Bhattacharya,Mechanical Engineering,3,STU2026023,true
+STU2026024,Ayaan Saxena,Mechanical Engineering,1,STU2026024,true
+STU2026025,Sai Singh,Electrical Engineering,2,STU2026025,true
+STU2026026,Kavya Choudhury,Computer Science,4,STU2026026,true
+STU2026027,Tanvi Agarwal,Electronics & Communication,1,STU2026027,true
+STU2026028,Sai Bansal,Electronics & Communication,3,STU2026028,true
+STU2026029,Kavya Gupta,Mechanical Engineering,1,STU2026029,true
+STU2026030,Tarun Malhotra,Civil Engineering,2,STU2026030,true
+STU2026031,Muhammad Banerjee,Electrical Engineering,2,STU2026031,true
+STU2026032,Suresh Gupta,Civil Engineering,1,STU2026032,true
+STU2026033,Pooja Verma,Computer Science,3,STU2026033,true
+STU2026034,Aadhya Chopra,Computer Science,2,STU2026034,true
+STU2026035,Reyansh Nair,Electrical Engineering,4,STU2026035,true
+STU2026036,Suresh Bansal,Information Technology,2,STU2026036,true
+STU2026037,Siddharth Gupta,Electronics & Communication,4,STU2026037,true
+STU2026038,Karthik Bhat,Electrical Engineering,3,STU2026038,true
+STU2026039,Meera Sengupta,Mechanical Engineering,4,STU2026039,true
+STU2026040,Kabir Iyer,Electronics & Communication,1,STU2026040,true
+STU2026041,Kabir Bhattacharya,Information Technology,1,STU2026041,true
+STU2026042,Priyanka Mehta,Information Technology,1,STU2026042,true
+STU2026043,Pari Iyer,Civil Engineering,2,STU2026043,true
+STU2026044,Pooja Deshmukh,Civil Engineering,2,STU2026044,true
+STU2026045,Gautam Jain,Mechanical Engineering,2,STU2026045,true
+STU2026046,Riya Bhat,Computer Science,1,STU2026046,true
+STU2026047,Fatima Yadav,Mechanical Engineering,4,STU2026047,true
+STU2026048,Vihaan Reddy,Computer Science,4,STU2026048,true
+STU2026049,Muhammad Chopra,Information Technology,2,STU2026049,true
+STU2026050,Ayaan Yadav,Information Technology,3,STU2026050,true
+STU2026051,Arjun Pandey,Civil Engineering,1,STU2026051,true
+STU2026052,Karthik Sharma,Computer Science,2,STU2026052,true
+STU2026053,Pooja Shukla,Information Technology,4,STU2026053,true
+STU2026054,Ishaan Pillai,Computer Science,4,STU2026054,true
+STU2026055,Tanvi Chatterjee,Mechanical Engineering,4,STU2026055,true
+STU2026056,Saanvi Deshmukh,Computer Science,1,STU2026056,true
+STU2026057,Vihaan Mehta,Civil Engineering,4,STU2026057,true
+STU2026058,Rahul Gupta,Computer Science,1,STU2026058,true
+STU2026059,Arjun Choudhury,Computer Science,2,STU2026059,true
+STU2026060,Gautam Chopra,Civil Engineering,1,STU2026060,true
+STU2026061,Riya Bhattacharya,Civil Engineering,3,STU2026061,true
+STU2026062,Dhruv Mukherjee,Information Technology,3,STU2026062,true
+STU2026063,Meera Banerjee,Mechanical Engineering,3,STU2026063,true
+STU2026064,Arjun Sharma,Mechanical Engineering,1,STU2026064,true
+STU2026065,Dhruv Saxena,Electronics & Communication,2,STU2026065,true
+STU2026066,Arjun Chopra,Electronics & Communication,3,STU2026066,true
+STU2026067,Karthik Banerjee,Civil Engineering,1,STU2026067,true
+STU2026068,Siddharth Banerjee,Electrical Engineering,1,STU2026068,true
+STU2026069,Ayaan Malhotra,Computer Science,1,STU2026069,true
+STU2026070,Krishna Kapoor,Electronics & Communication,2,STU2026070,true
+STU2026071,Dhruv Malhotra,Civil Engineering,4,STU2026071,true
+STU2026072,Vihaan Nair,Electrical Engineering,4,STU2026072,true
+STU2026073,Aditya Sharma,Electronics & Communication,2,STU2026073,true
+STU2026074,Ananya Gupta,Electrical Engineering,4,STU2026074,true
+STU2026075,Kavya Garg,Computer Science,1,STU2026075,true
+STU2026076,Rashmi Singh,Civil Engineering,1,STU2026076,true
+STU2026077,Manish Garg,Information Technology,4,STU2026077,true
+STU2026078,Aadhya Sengupta,Computer Science,3,STU2026078,true
+STU2026079,Rohan Reddy,Electronics & Communication,4,STU2026079,true
+STU2026080,Harish Singh,Information Technology,2,STU2026080,true
+STU2026081,Shaurya Chauhan,Computer Science,2,STU2026081,true
+STU2026082,Pari Chauhan,Electrical Engineering,2,STU2026082,true
+STU2026083,Rashmi Reddy,Mechanical Engineering,1,STU2026083,true
+STU2026084,Kabir Bhat,Mechanical Engineering,3,STU2026084,true
+STU2026085,Kabir Kulkarni,Computer Science,2,STU2026085,true
+STU2026086,Diya Iyer,Electronics & Communication,3,STU2026086,true
+STU2026087,Isha Bansal,Electronics & Communication,1,STU2026087,true
+STU2026088,Ananya Joshi,Civil Engineering,3,STU2026088,false
+STU2026089,Deepak Yadav,Electronics & Communication,3,STU2026089,true
+STU2026090,Vikram Rao,Mechanical Engineering,2,STU2026090,true
+STU2026091,Divya Yadav,Computer Science,2,STU2026091,true
+STU2026092,Arjun Das,Civil Engineering,3,STU2026092,true
+STU2026093,Sai Banerjee,Civil Engineering,3,STU2026093,true
+STU2026094,Kiara Menon,Electrical Engineering,3,STU2026094,true
+STU2026095,Atharva Chauhan,Electrical Engineering,4,STU2026095,true
+STU2026096,Shaurya Thakur,Civil Engineering,3,STU2026096,true
+STU2026097,Aarav Banerjee,Electronics & Communication,2,STU2026097,true
+STU2026098,Manish Choudhury,Electrical Engineering,3,STU2026098,true
+STU2026099,Sneha Deshmukh,Civil Engineering,4,STU2026099,true
+STU2026100,Harish Gupta,Electrical Engineering,1,STU2026100,true
+STU2026101,Meera Thakur,Electronics & Communication,1,STU2026101,true
+STU2026102,Suresh Chopra,Electrical Engineering,3,STU2026102,true
+STU2026103,Atharva Singh,Computer Science,1,STU2026103,true
+STU2026104,Neha Thakur,Computer Science,4,STU2026104,true
+STU2026105,Priyanka Jain,Information Technology,4,STU2026105,true
+STU2026106,Rohan Singh,Electrical Engineering,1,STU2026106,true
+STU2026107,Ramesh Reddy,Mechanical Engineering,2,STU2026107,true
+STU2026108,Rashmi Agarwal,Mechanical Engineering,1,STU2026108,true
+STU2026109,Sai Mishra,Information Technology,4,STU2026109,true
+STU2026110,Siddharth Choudhury,Electronics & Communication,4,STU2026110,true
+STU2026111,Tarun Saxena,Mechanical Engineering,4,STU2026111,true
+STU2026112,Harish Shukla,Mechanical Engineering,3,STU2026112,true
+STU2026113,Priyanka Kapoor,Civil Engineering,4,STU2026113,true
+STU2026114,Diya Pandey,Computer Science,3,STU2026114,true
+STU2026115,Pari Mukherjee,Civil Engineering,1,STU2026115,true
+STU2026116,Kabir Pillai,Electrical Engineering,2,STU2026116,true
+STU2026117,Arjun Chauhan,Mechanical Engineering,3,STU2026117,true
+STU2026118,Riya Mehta,Information Technology,4,STU2026118,true
+STU2026119,Ramesh Bhattacharya,Electrical Engineering,1,STU2026119,true
+STU2026120,Suresh Jain,Mechanical Engineering,4,STU2026120,false
+STU2026121,Fatima Banerjee,Mechanical Engineering,4,STU2026121,true
+STU2026122,Harish Bansal,Civil Engineering,2,STU2026122,true
+STU2026123,Diya Yadav,Mechanical Engineering,1,STU2026123,true
+STU2026124,Meera Menon,Electrical Engineering,2,STU2026124,true
+STU2026125,Ayaan Thakur,Civil Engineering,1,STU2026125,true
+STU2026126,Manish Jain,Electrical Engineering,1,STU2026126,true
+STU2026127,Kavya Kumar,Mechanical Engineering,2,STU2026127,true
+STU2026128,Myra Mukherjee,Information Technology,4,STU2026128,true
+STU2026129,Suresh Pillai,Electronics & Communication,4,STU2026129,true
+STU2026130,Reyansh Shukla,Computer Science,1,STU2026130,true
+STU2026131,Fatima Kulkarni,Electrical Engineering,1,STU2026131,true
+STU2026132,Shruti Patel,Computer Science,2,STU2026132,true
+STU2026133,Vivaan Thakur,Information Technology,2,STU2026133,true
+STU2026134,Meera Rao,Civil Engineering,2,STU2026134,true
+STU2026135,Ananya Sengupta,Information Technology,1,STU2026135,true
+STU2026136,Ishaan Banerjee,Computer Science,1,STU2026136,true
+STU2026137,Gautam Pillai,Mechanical Engineering,2,STU2026137,true
+STU2026138,Rashmi Chopra,Computer Science,3,STU2026138,true
+STU2026139,Deepak Rao,Civil Engineering,1,STU2026139,true
+STU2026140,Kavya Sengupta,Computer Science,3,STU2026140,false
+STU2026141,Riya Trivedi,Computer Science,4,STU2026141,true
+STU2026142,Priyanka Mishra,Electrical Engineering,2,STU2026142,true
+STU2026143,Tarun Agarwal,Electrical Engineering,3,STU2026143,true
+STU2026144,Karthik Shukla,Mechanical Engineering,4,STU2026144,true
+STU2026145,Manish Kapoor,Electronics & Communication,2,STU2026145,true
+STU2026146,Reyansh Kapoor,Mechanical Engineering,2,STU2026146,true
+STU2026147,Gautam Thakur,Electrical Engineering,4,STU2026147,true
+STU2026148,Pooja Mukherjee,Information Technology,4,STU2026148,true
+STU2026149,Ananya Das,Electronics & Communication,3,STU2026149,true
+STU2026150,Rahul Bhat,Computer Science,2,STU2026150,true
+STU2026151,Pooja Garg,Information Technology,4,STU2026151,true
+STU2026152,Pooja Pandey,Computer Science,1,STU2026152,true
+STU2026153,Isha Chopra,Electronics & Communication,3,STU2026153,true
+STU2026154,Rahul Bose,Mechanical Engineering,3,STU2026154,true
+STU2026155,Tanvi Kapoor,Electronics & Communication,3,STU2026155,true
+STU2026156,Tarun Bhat,Electronics & Communication,1,STU2026156,true
+STU2026157,Suresh Joshi,Information Technology,2,STU2026157,true
+STU2026158,Diya Bhattacharya,Civil Engineering,3,STU2026158,true
+STU2026159,Atharva Chatterjee,Information Technology,3,STU2026159,true
+STU2026160,Aarav Bansal,Information Technology,3,STU2026160,true
+STU2026161,Vihaan Garg,Electronics & Communication,2,STU2026161,true
+STU2026162,Suresh Trivedi,Computer Science,1,STU2026162,true
+STU2026163,Neha Shukla,Mechanical Engineering,3,STU2026163,true
+STU2026164,Vihaan Malhotra,Mechanical Engineering,1,STU2026164,true
+STU2026165,Isha Trivedi,Computer Science,1,STU2026165,true
+STU2026166,Gautam Banerjee,Computer Science,2,STU2026166,true
+STU2026167,Suresh Chauhan,Civil Engineering,2,STU2026167,true
+STU2026168,Myra Pandey,Mechanical Engineering,3,STU2026168,true
+STU2026169,Kavya Banerjee,Civil Engineering,1,STU2026169,true
+STU2026170,Harish Reddy,Information Technology,2,STU2026170,true
+STU2026171,Reyansh Gupta,Information Technology,2,STU2026171,true
+STU2026172,Ishaan Sharma,Mechanical Engineering,4,STU2026172,true
+STU2026173,Neha Chatterjee,Computer Science,2,STU2026173,true
+STU2026174,Saanvi Mishra,Computer Science,2,STU2026174,true
+STU2026175,Priyanka Bhattacharya,Electrical Engineering,2,STU2026175,true
+STU2026176,Karthik Kulkarni,Electrical Engineering,2,STU2026176,true
+STU2026177,Krishna Iyer,Computer Science,2,STU2026177,true
+STU2026178,Deepak Jain,Electronics & Communication,4,STU2026178,true
+STU2026179,Rashmi Banerjee,Electrical Engineering,4,STU2026179,true
+STU2026180,Vikram Bansal,Mechanical Engineering,4,STU2026180,true
+STU2026181,Aditya Yadav,Electrical Engineering,3,STU2026181,true
+STU2026182,Vivaan Nair,Information Technology,1,STU2026182,true
+STU2026183,Swati Kapoor,Civil Engineering,1,STU2026183,true
+STU2026184,Shaurya Shukla,Civil Engineering,4,STU2026184,true
+STU2026185,Shaurya Bhattacharya,Mechanical Engineering,4,STU2026185,true
+STU2026186,Neha Bose,Mechanical Engineering,3,STU2026186,true
+STU2026187,Muhammad Gupta,Electronics & Communication,4,STU2026187,true
+STU2026188,Saanvi Menon,Civil Engineering,1,STU2026188,true
+STU2026189,Kiara Malhotra,Electronics & Communication,1,STU2026189,true
+STU2026190,Isha Saxena,Computer Science,4,STU2026190,true
+STU2026191,Atharva Agarwal,Electronics & Communication,4,STU2026191,true
+STU2026192,Suresh Mehta,Information Technology,3,STU2026192,true
+STU2026193,Saanvi Pandey,Electrical Engineering,4,STU2026193,true
+STU2026194,Priyanka Choudhury,Information Technology,2,STU2026194,true
+STU2026195,Aarav Garg,Mechanical Engineering,1,STU2026195,true
+STU2026196,Sai Mishra,Computer Science,2,STU2026196,true
+STU2026197,Divya Chatterjee,Civil Engineering,3,STU2026197,true
+STU2026198,Neha Shukla,Information Technology,4,STU2026198,true
+STU2026199,Myra Bhat,Civil Engineering,2,STU2026199,true
+STU2026200,Diya Chauhan,Electronics & Communication,3,STU2026200,true
+STU2026201,Saanvi Banerjee,Civil Engineering,4,STU2026201,true
+STU2026202,Sneha Bansal,Mechanical Engineering,3,STU2026202,true
+STU2026203,Suresh Bansal,Mechanical Engineering,4,STU2026203,true
+STU2026204,Atharva Chopra,Civil Engineering,4,STU2026204,true
+STU2026205,Ramesh Chauhan,Computer Science,3,STU2026205,true
+STU2026206,Divya Pillai,Mechanical Engineering,2,STU2026206,true
+STU2026207,Aditya Kumar,Civil Engineering,3,STU2026207,true
+STU2026208,Sneha Reddy,Civil Engineering,4,STU2026208,false
+STU2026209,Krishna Chauhan,Electrical Engineering,2,STU2026209,true
+STU2026210,Ananya Das,Civil Engineering,4,STU2026210,true
+STU2026211,Pari Bansal,Mechanical Engineering,3,STU2026211,true
+STU2026212,Suresh Trivedi,Civil Engineering,1,STU2026212,true
+STU2026213,Rohan Chatterjee,Information Technology,1,STU2026213,true
+STU2026214,Muhammad Reddy,Mechanical Engineering,2,STU2026214,true
+STU2026215,Vivaan Patel,Electronics & Communication,1,STU2026215,true
+STU2026216,Anushka Yadav,Information Technology,2,STU2026216,true
+STU2026217,Gautam Joshi,Information Technology,2,STU2026217,true
+STU2026218,Myra Thakur,Electrical Engineering,2,STU2026218,true
+STU2026219,Manish Singh,Information Technology,4,STU2026219,true
+STU2026220,Tanvi Malhotra,Electrical Engineering,1,STU2026220,true
+STU2026221,Tanvi Chatterjee,Electrical Engineering,2,STU2026221,true
+STU2026222,Fatima Bhattacharya,Electronics & Communication,4,STU2026222,true
+STU2026223,Tanvi Banerjee,Information Technology,4,STU2026223,true
+STU2026224,Muhammad Chopra,Mechanical Engineering,3,STU2026224,true
+STU2026225,Rashmi Chatterjee,Computer Science,4,STU2026225,true
+STU2026226,Gautam Mehta,Civil Engineering,4,STU2026226,true
+STU2026227,Saanvi Kulkarni,Civil Engineering,3,STU2026227,true
+STU2026228,Atharva Thakur,Electronics & Communication,2,STU2026228,true
+STU2026229,Priyanka Patel,Electronics & Communication,4,STU2026229,false
+STU2026230,Anushka Kumar,Computer Science,3,STU2026230,true
+STU2026231,Riya Joshi,Information Technology,2,STU2026231,true
+STU2026232,Anushka Agarwal,Civil Engineering,3,STU2026232,true
+STU2026233,Ananya Shukla,Electronics & Communication,3,STU2026233,true
+STU2026234,Tanvi Iyer,Information Technology,2,STU2026234,true
+STU2026235,Tarun Menon,Civil Engineering,3,STU2026235,true
+STU2026236,Isha Sharma,Electronics & Communication,1,STU2026236,true
+STU2026237,Swati Malhotra,Civil Engineering,4,STU2026237,true
+STU2026238,Anushka Reddy,Electrical Engineering,2,STU2026238,true
+STU2026239,Nikhil Garg,Electronics & Communication,2,STU2026239,true
+STU2026240,Priyanka Mishra,Electrical Engineering,3,STU2026240,true
+STU2026241,Sai Kumar,Computer Science,1,STU2026241,true
+STU2026242,Pooja Rao,Computer Science,2,STU2026242,true
+STU2026243,Ayaan Pillai,Mechanical Engineering,3,STU2026243,true
+STU2026244,Harish Bansal,Mechanical Engineering,2,STU2026244,true
+STU2026245,Shruti Reddy,Mechanical Engineering,4,STU2026245,true
+STU2026246,Diya Patel,Electrical Engineering,3,STU2026246,true
+STU2026247,Sneha Chopra,Electronics & Communication,1,STU2026247,true
+STU2026248,Anushka Bansal,Electrical Engineering,3,STU2026248,true
+STU2026249,Diya Bhat,Computer Science,4,STU2026249,true
+STU2026250,Dhruv Choudhury,Computer Science,1,STU2026250,true
+STU2026251,Rohan Kumar,Civil Engineering,2,STU2026251,true
+STU2026252,Suresh Garg,Information Technology,2,STU2026252,true
+STU2026253,Kabir Das,Information Technology,1,STU2026253,true
+STU2026254,Krishna Kumar,Civil Engineering,3,STU2026254,true
+STU2026255,Sai Verma,Information Technology,1,STU2026255,true
+STU2026256,Rohan Bhattacharya,Electronics & Communication,1,STU2026256,true
+STU2026257,Vihaan Kumar,Electrical Engineering,4,STU2026257,true
+STU2026258,Harish Iyer,Mechanical Engineering,4,STU2026258,true
+STU2026259,Vikram Bhattacharya,Computer Science,4,STU2026259,true
+STU2026260,Nikhil Patel,Electrical Engineering,3,STU2026260,true
+STU2026261,Vivaan Mehta,Mechanical Engineering,4,STU2026261,true
+STU2026262,Muhammad Trivedi,Electrical Engineering,4,STU2026262,true
+STU2026263,Reyansh Mukherjee,Civil Engineering,2,STU2026263,true
+STU2026264,Diya Thakur,Electrical Engineering,3,STU2026264,true
+STU2026265,Deepak Agarwal,Electronics & Communication,4,STU2026265,true
+STU2026266,Kavya Reddy,Electrical Engineering,1,STU2026266,true
+STU2026267,Shruti Garg,Electrical Engineering,2,STU2026267,true
+STU2026268,Kabir Chauhan,Electronics & Communication,4,STU2026268,true
+STU2026269,Tarun Reddy,Electronics & Communication,4,STU2026269,true
+STU2026270,Ananya Sengupta,Information Technology,4,STU2026270,true
+STU2026271,Reyansh Nair,Mechanical Engineering,1,STU2026271,true
+STU2026272,Anushka Kumar,Civil Engineering,1,STU2026272,true
+STU2026273,Siddharth Garg,Electronics & Communication,1,STU2026273,true
+STU2026274,Meera Yadav,Electrical Engineering,1,STU2026274,true
+STU2026275,Deepak Banerjee,Electronics & Communication,1,STU2026275,true
+STU2026276,Dhruv Singh,Electrical Engineering,4,STU2026276,true
+STU2026277,Muhammad Bose,Civil Engineering,3,STU2026277,true
+STU2026278,Diya Jain,Information Technology,4,STU2026278,true
+STU2026279,Ramesh Thakur,Civil Engineering,1,STU2026279,true
+STU2026280,Meera Kapoor,Computer Science,2,STU2026280,true
+STU2026281,Suresh Banerjee,Electronics & Communication,3,STU2026281,false
+STU2026282,Krishna Jain,Electrical Engineering,4,STU2026282,true
+STU2026283,Harish Verma,Computer Science,2,STU2026283,true
+STU2026284,Tanvi Das,Information Technology,3,STU2026284,true
+STU2026285,Kiara Jain,Civil Engineering,1,STU2026285,true
+STU2026286,Krishna Gupta,Civil Engineering,1,STU2026286,true
+STU2026287,Diya Pandey,Electrical Engineering,4,STU2026287,true
+STU2026288,Sneha Chauhan,Electronics & Communication,2,STU2026288,true
+STU2026289,Sai Bose,Mechanical Engineering,1,STU2026289,true
+STU2026290,Swati Bhattacharya,Mechanical Engineering,3,STU2026290,true
+STU2026291,Isha Choudhury,Computer Science,1,STU2026291,true
+STU2026292,Dhruv Kumar,Electronics & Communication,3,STU2026292,true
+STU2026293,Aarav Trivedi,Electrical Engineering,4,STU2026293,true
+STU2026294,Myra Bansal,Electrical Engineering,2,STU2026294,true
+STU2026295,Meera Bose,Computer Science,4,STU2026295,true
+STU2026296,Aditya Yadav,Computer Science,4,STU2026296,true
+STU2026297,Kiara Jain,Mechanical Engineering,4,STU2026297,true
+STU2026298,Riya Chatterjee,Computer Science,4,STU2026298,false
+STU2026299,Kiara Gupta,Civil Engineering,4,STU2026299,true
+STU2026300,Anushka Nair,Mechanical Engineering,1,STU2026300,true
+STU2026301,Manish Menon,Civil Engineering,1,STU2026301,true
+STU2026302,Aadhya Das,Information Technology,3,STU2026302,true
+STU2026303,Arjun Saxena,Electrical Engineering,1,STU2026303,true
+STU2026304,Atharva Bose,Electronics & Communication,2,STU2026304,true
+STU2026305,Krishna Malhotra,Information Technology,2,STU2026305,true
+STU2026306,Suresh Iyer,Information Technology,4,STU2026306,true
+STU2026307,Gautam Bhattacharya,Mechanical Engineering,3,STU2026307,true
+STU2026308,Priyanka Mukherjee,Information Technology,4,STU2026308,true
+STU2026309,Sneha Banerjee,Electronics & Communication,1,STU2026309,true
+STU2026310,Arjun Banerjee,Mechanical Engineering,4,STU2026310,false
+STU2026311,Anushka Chatterjee,Computer Science,1,STU2026311,true
+STU2026312,Vikram Pillai,Mechanical Engineering,1,STU2026312,true
+STU2026313,Gautam Bhat,Electronics & Communication,4,STU2026313,true
+STU2026314,Vihaan Pandey,Computer Science,3,STU2026314,true
+STU2026315,Reyansh Saxena,Electrical Engineering,2,STU2026315,false
+STU2026316,Divya Pandey,Mechanical Engineering,2,STU2026316,true
+STU2026317,Saanvi Pillai,Mechanical Engineering,3,STU2026317,true
+STU2026318,Vihaan Das,Computer Science,3,STU2026318,true
+STU2026319,Swati Pillai,Electronics & Communication,3,STU2026319,true
+STU2026320,Meera Choudhury,Information Technology,3,STU2026320,true
+STU2026321,Meera Singh,Electronics & Communication,3,STU2026321,true
+STU2026322,Rashmi Menon,Information Technology,1,STU2026322,true
+STU2026323,Myra Das,Information Technology,1,STU2026323,true
+STU2026324,Kavya Saxena,Electronics & Communication,1,STU2026324,true
+STU2026325,Shaurya Deshmukh,Electronics & Communication,4,STU2026325,true
+STU2026326,Ayaan Singh,Computer Science,3,STU2026326,true
+STU2026327,Muhammad Saxena,Civil Engineering,1,STU2026327,true
+STU2026328,Ramesh Thakur,Information Technology,4,STU2026328,true
+STU2026329,Shaurya Thakur,Information Technology,4,STU2026329,true
+STU2026330,Anushka Chopra,Mechanical Engineering,3,STU2026330,true
+STU2026331,Sneha Kulkarni,Civil Engineering,2,STU2026331,true
+STU2026332,Neha Bhat,Electronics & Communication,4,STU2026332,true
+STU2026333,Saanvi Pillai,Civil Engineering,4,STU2026333,true
+STU2026334,Atharva Choudhury,Information Technology,3,STU2026334,true
+STU2026335,Neha Sengupta,Civil Engineering,1,STU2026335,true
+STU2026336,Rahul Rao,Electronics & Communication,1,STU2026336,true
+STU2026337,Diya Pandey,Civil Engineering,2,STU2026337,true
+STU2026338,Reyansh Kulkarni,Mechanical Engineering,3,STU2026338,true
+STU2026339,Riya Mehta,Mechanical Engineering,3,STU2026339,true
+STU2026340,Reyansh Sengupta,Information Technology,1,STU2026340,true
+STU2026341,Muhammad Das,Information Technology,2,STU2026341,false
+STU2026342,Neha Kumar,Electrical Engineering,4,STU2026342,true
+STU2026343,Aarav Nair,Computer Science,3,STU2026343,true
+STU2026344,Krishna Garg,Electrical Engineering,4,STU2026344,true
+STU2026345,Saanvi Chopra,Electronics & Communication,1,STU2026345,true
+STU2026346,Riya Thakur,Mechanical Engineering,1,STU2026346,true
+STU2026347,Pooja Choudhury,Civil Engineering,1,STU2026347,true
+STU2026348,Gautam Chopra,Electrical Engineering,2,STU2026348,true
+STU2026349,Aarav Thakur,Electronics & Communication,2,STU2026349,true
+STU2026350,Shaurya Nair,Civil Engineering,3,STU2026350,true
+STU2026351,Rahul Bansal,Civil Engineering,1,STU2026351,true
+STU2026352,Neha Patel,Electrical Engineering,4,STU2026352,true
+STU2026353,Ananya Verma,Electronics & Communication,1,STU2026353,true
+STU2026354,Tarun Reddy,Civil Engineering,3,STU2026354,true
+STU2026355,Fatima Bansal,Electronics & Communication,2,STU2026355,true
+STU2026356,Swati Mishra,Electrical Engineering,4,STU2026356,true
+STU2026357,Ayaan Iyer,Electrical Engineering,4,STU2026357,false
+STU2026358,Atharva Patel,Information Technology,1,STU2026358,true
+STU2026359,Aadhya Saxena,Mechanical Engineering,4,STU2026359,true
+STU2026360,Suresh Bhat,Electronics & Communication,3,STU2026360,true
+STU2026361,Vihaan Das,Electronics & Communication,1,STU2026361,true
+STU2026362,Kavya Menon,Electrical Engineering,4,STU2026362,true
+STU2026363,Myra Das,Information Technology,4,STU2026363,true
+STU2026364,Anushka Agarwal,Electronics & Communication,1,STU2026364,true
+STU2026365,Reyansh Yadav,Civil Engineering,2,STU2026365,true
+STU2026366,Kiara Reddy,Computer Science,3,STU2026366,true
+STU2026367,Aadhya Pandey,Civil Engineering,4,STU2026367,true
+STU2026368,Sneha Bose,Mechanical Engineering,1,STU2026368,true
+STU2026369,Fatima Thakur,Mechanical Engineering,3,STU2026369,true
+STU2026370,Vihaan Iyer,Electrical Engineering,4,STU2026370,true
+STU2026371,Harish Gupta,Computer Science,2,STU2026371,true
+STU2026372,Swati Pandey,Computer Science,2,STU2026372,true
+STU2026373,Ramesh Sengupta,Electronics & Communication,4,STU2026373,true
+STU2026374,Aditya Choudhury,Information Technology,4,STU2026374,true
+STU2026375,Anushka Pandey,Computer Science,2,STU2026375,true
+STU2026376,Isha Mukherjee,Electrical Engineering,3,STU2026376,true
+STU2026377,Sai Verma,Electrical Engineering,2,STU2026377,true
+STU2026378,Myra Garg,Computer Science,3,STU2026378,true
+STU2026379,Divya Pandey,Information Technology,3,STU2026379,true
+STU2026380,Pooja Bhat,Computer Science,2,STU2026380,true
+STU2026381,Sneha Joshi,Electrical Engineering,4,STU2026381,true
+STU2026382,Swati Mukherjee,Electrical Engineering,3,STU2026382,true
+STU2026383,Siddharth Bansal,Electronics & Communication,3,STU2026383,true
+STU2026384,Divya Joshi,Electronics & Communication,2,STU2026384,true
+STU2026385,Atharva Kumar,Information Technology,4,STU2026385,false
+STU2026386,Siddharth Jain,Electronics & Communication,4,STU2026386,true
+STU2026387,Siddharth Kumar,Civil Engineering,1,STU2026387,true
+STU2026388,Isha Shukla,Civil Engineering,4,STU2026388,true
+STU2026389,Gautam Iyer,Information Technology,3,STU2026389,true
+STU2026390,Sneha Mishra,Electrical Engineering,3,STU2026390,true
+STU2026391,Ramesh Garg,Electrical Engineering,2,STU2026391,true
+STU2026392,Ayaan Yadav,Civil Engineering,1,STU2026392,true
+STU2026393,Rahul Singh,Electronics & Communication,2,STU2026393,true
+STU2026394,Divya Kulkarni,Electronics & Communication,3,STU2026394,true
+STU2026395,Ananya Bhat,Electrical Engineering,3,STU2026395,true
+STU2026396,Aadhya Thakur,Civil Engineering,1,STU2026396,true
+STU2026397,Ishaan Bhattacharya,Civil Engineering,2,STU2026397,true
+STU2026398,Nikhil Choudhury,Electronics & Communication,1,STU2026398,true
+STU2026399,Vivaan Nair,Computer Science,3,STU2026399,true
+STU2026400,Ramesh Jain,Mechanical Engineering,1,STU2026400,true
+STU2026401,Priyanka Bansal,Electronics & Communication,3,STU2026401,true
+STU2026402,Swati Menon,Electronics & Communication,4,STU2026402,true
+STU2026403,Vihaan Gupta,Mechanical Engineering,4,STU2026403,true
+STU2026404,Dhruv Das,Civil Engineering,2,STU2026404,true
+STU2026405,Divya Mukherjee,Electrical Engineering,3,STU2026405,true
+STU2026406,Ayaan Sengupta,Civil Engineering,1,STU2026406,true
+STU2026407,Tanvi Rao,Electronics & Communication,4,STU2026407,true
+STU2026408,Muhammad Mehta,Electronics & Communication,4,STU2026408,true
+STU2026409,Riya Chopra,Information Technology,3,STU2026409,true
+STU2026410,Tarun Mukherjee,Information Technology,2,STU2026410,true
+STU2026411,Vikram Mishra,Mechanical Engineering,3,STU2026411,true
+STU2026412,Reyansh Menon,Civil Engineering,4,STU2026412,true
+STU2026413,Dhruv Bhattacharya,Electronics & Communication,1,STU2026413,true
+STU2026414,Pooja Choudhury,Electrical Engineering,4,STU2026414,true
+STU2026415,Aarav Reddy,Mechanical Engineering,2,STU2026415,true
+STU2026416,Tarun Sengupta,Mechanical Engineering,3,STU2026416,true
+STU2026417,Vihaan Jain,Civil Engineering,2,STU2026417,true
+STU2026418,Saanvi Iyer,Mechanical Engineering,4,STU2026418,true
+STU2026419,Diya Thakur,Electrical Engineering,1,STU2026419,true
+STU2026420,Muhammad Menon,Electronics & Communication,3,STU2026420,true
+STU2026421,Anushka Singh,Information Technology,4,STU2026421,true
+STU2026422,Aditya Patel,Information Technology,3,STU2026422,true
+STU2026423,Rahul Mishra,Information Technology,2,STU2026423,true
+STU2026424,Nikhil Mukherjee,Information Technology,4,STU2026424,true
+STU2026425,Harish Banerjee,Civil Engineering,3,STU2026425,true
+STU2026426,Vikram Bansal,Mechanical Engineering,3,STU2026426,true
+STU2026427,Vivaan Sengupta,Electronics & Communication,1,STU2026427,true
+STU2026428,Manish Banerjee,Electrical Engineering,1,STU2026428,true
+STU2026429,Ananya Bhattacharya,Civil Engineering,2,STU2026429,true
+STU2026430,Manish Shukla,Information Technology,4,STU2026430,true
+STU2026431,Swati Chopra,Computer Science,1,STU2026431,true
+STU2026432,Sneha Mukherjee,Mechanical Engineering,2,STU2026432,true
+STU2026433,Dhruv Chauhan,Civil Engineering,4,STU2026433,true
+STU2026434,Harish Mehta,Electrical Engineering,2,STU2026434,true
+STU2026435,Siddharth Mukherjee,Electrical Engineering,4,STU2026435,true
+STU2026436,Kiara Joshi,Mechanical Engineering,3,STU2026436,true
+STU2026437,Swati Malhotra,Civil Engineering,4,STU2026437,true
+STU2026438,Rohan Kapoor,Civil Engineering,3,STU2026438,true
+STU2026439,Aadhya Chatterjee,Electrical Engineering,2,STU2026439,true
+STU2026440,Pooja Mukherjee,Mechanical Engineering,3,STU2026440,true
+STU2026441,Tarun Kapoor,Electronics & Communication,1,STU2026441,true
+STU2026442,Karthik Pillai,Mechanical Engineering,3,STU2026442,true
+STU2026443,Krishna Chatterjee,Computer Science,3,STU2026443,true
+STU2026444,Reyansh Bose,Mechanical Engineering,3,STU2026444,true
+STU2026445,Dhruv Bhat,Civil Engineering,3,STU2026445,true
+STU2026446,Rashmi Kapoor,Information Technology,1,STU2026446,true
+STU2026447,Manish Chopra,Information Technology,1,STU2026447,true
+STU2026448,Rahul Kulkarni,Electrical Engineering,2,STU2026448,true
+STU2026449,Riya Das,Electrical Engineering,4,STU2026449,true
+STU2026450,Ramesh Kumar,Computer Science,2,STU2026450,true
+STU2026451,Neha Shukla,Electrical Engineering,2,STU2026451,true
+STU2026452,Saanvi Mukherjee,Electronics & Communication,1,STU2026452,true
+STU2026453,Reyansh Jain,Information Technology,1,STU2026453,true
+STU2026454,Shaurya Chauhan,Information Technology,1,STU2026454,true
+STU2026455,Isha Trivedi,Information Technology,3,STU2026455,true
+STU2026456,Aarav Banerjee,Civil Engineering,1,STU2026456,true
+STU2026457,Pari Chatterjee,Mechanical Engineering,4,STU2026457,true
+STU2026458,Ayaan Saxena,Mechanical Engineering,3,STU2026458,true
+STU2026459,Sai Das,Information Technology,4,STU2026459,true
+STU2026460,Divya Joshi,Computer Science,3,STU2026460,true
+STU2026461,Gautam Bhat,Information Technology,4,STU2026461,true
+STU2026462,Vikram Mukherjee,Computer Science,4,STU2026462,true
+STU2026463,Shaurya Kumar,Mechanical Engineering,3,STU2026463,true
+STU2026464,Aarav Malhotra,Mechanical Engineering,2,STU2026464,true
+STU2026465,Diya Das,Electronics & Communication,1,STU2026465,true
+STU2026466,Anushka Chopra,Computer Science,1,STU2026466,true
+STU2026467,Ishaan Menon,Electrical Engineering,3,STU2026467,true
+STU2026468,Priyanka Chatterjee,Electronics & Communication,2,STU2026468,true
+STU2026469,Ayaan Shukla,Information Technology,4,STU2026469,true
+STU2026470,Deepak Sengupta,Mechanical Engineering,4,STU2026470,true
+STU2026471,Meera Deshmukh,Information Technology,1,STU2026471,true
+STU2026472,Rahul Sengupta,Computer Science,1,STU2026472,true
+STU2026473,Siddharth Saxena,Information Technology,2,STU2026473,true
+STU2026474,Rahul Pandey,Computer Science,2,STU2026474,true
+STU2026475,Pooja Nair,Civil Engineering,4,STU2026475,true
+STU2026476,Tanvi Kumar,Civil Engineering,4,STU2026476,true
+STU2026477,Vihaan Garg,Mechanical Engineering,3,STU2026477,true
+STU2026478,Isha Malhotra,Computer Science,2,STU2026478,true
+STU2026479,Aditya Yadav,Electronics & Communication,1,STU2026479,true
+STU2026480,Vihaan Iyer,Mechanical Engineering,1,STU2026480,true
+STU2026481,Shaurya Kumar,Electrical Engineering,4,STU2026481,true
+STU2026482,Myra Pandey,Mechanical Engineering,4,STU2026482,true
+STU2026483,Meera Bansal,Information Technology,3,STU2026483,true
+STU2026484,Karthik Menon,Civil Engineering,2,STU2026484,true
+STU2026485,Kabir Sharma,Computer Science,3,STU2026485,true
+STU2026486,Tarun Bansal,Mechanical Engineering,4,STU2026486,true
+STU2026487,Rohan Mishra,Electronics & Communication,2,STU2026487,true
+STU2026488,Tarun Rao,Computer Science,4,STU2026488,true
+STU2026489,Vivaan Chopra,Information Technology,1,STU2026489,true
+STU2026490,Aditya Pandey,Civil Engineering,1,STU2026490,true
+STU2026491,Aditya Menon,Mechanical Engineering,2,STU2026491,true
+STU2026492,Suresh Mehta,Information Technology,3,STU2026492,true
+STU2026493,Tarun Jain,Electronics & Communication,3,STU2026493,true
+STU2026494,Krishna Agarwal,Information Technology,4,STU2026494,true
+STU2026495,Vihaan Garg,Civil Engineering,2,STU2026495,true
+STU2026496,Kavya Garg,Mechanical Engineering,1,STU2026496,true
+STU2026497,Shruti Pillai,Civil Engineering,3,STU2026497,true
+STU2026498,Riya Singh,Electronics & Communication,4,STU2026498,true
+STU2026499,Karthik Shukla,Information Technology,2,STU2026499,true
+STU2026500,Divya Singh,Mechanical Engineering,1,STU2026500,true

@@ -1,0 +1,236 @@
+/* Canteen Staff Scanner UI Styles */
+
+.scanner-layout {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 960px) {
+  .scanner-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Viewfinder container */
+.scanner-viewport-card {
+  background: var(--white);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--gray-200);
+  padding: 1.25rem;
+  box-shadow: var(--shadow-md);
+  position: relative;
+}
+
+.scanner-video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: #000;
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#qr-reader {
+  width: 100% !important;
+  border: none !important;
+}
+
+#qr-reader video {
+  border-radius: var(--radius-md);
+  width: 100% !important;
+  object-fit: cover;
+}
+
+/* Scanner Laser Animation Overlay */
+.scan-laser-line {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  right: 5%;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #22c55e, #3b82f6, #22c55e, transparent);
+  box-shadow: 0 0 12px #22c55e;
+  border-radius: 2px;
+  pointer-events: none;
+  animation: scanLaser 2.2s ease-in-out infinite alternate;
+  z-index: 10;
+}
+
+@keyframes scanLaser {
+  0% { top: 12%; opacity: 0.8; }
+  50% { opacity: 1; }
+  100% { top: 88%; opacity: 0.8; }
+}
+
+.scanner-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+/* Manual ID Fallback Form */
+.manual-box {
+  background: #f8fafc;
+  border: 1px dashed var(--gray-300);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  margin-top: 1.25rem;
+}
+
+.manual-form-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Live Result Feedback Modal / Card */
+.result-banner {
+  padding: 1.5rem;
+  border-radius: var(--radius-md);
+  margin-bottom: 1.25rem;
+  text-align: center;
+  transition: all 0.25s ease;
+  display: none;
+  animation: resultIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.result-banner.show {
+  display: block;
+}
+
+@keyframes resultIn {
+  from { transform: scale(0.92); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* Approved Lunch State (Green) */
+.result-banner.approved {
+  background: #ecfdf5;
+  border: 2px solid #059669;
+  color: #065f46;
+}
+
+.result-banner.approved .result-icon {
+  background: #10b981;
+  color: #fff;
+}
+
+/* Duplicate / Already Claimed State (Red) */
+.result-banner.already_redeemed {
+  background: #fef2f2;
+  border: 2px solid #dc2626;
+  color: #991b1b;
+}
+
+.result-banner.already_redeemed .result-icon {
+  background: #ef4444;
+  color: #fff;
+}
+
+/* Invalid / Inactive State */
+.result-banner.invalid {
+  background: #fffbeb;
+  border: 2px solid #d97706;
+  color: #92400e;
+}
+
+.result-banner.invalid .result-icon {
+  background: #f59e0b;
+  color: #fff;
+}
+
+.result-icon {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  margin: 0 auto 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-md);
+}
+
+.result-icon svg {
+  width: 38px;
+  height: 38px;
+}
+
+.result-title {
+  font-size: 1.45rem;
+  font-weight: 800;
+  margin-bottom: 0.35rem;
+}
+
+.result-desc {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-bottom: 0.85rem;
+}
+
+.result-student-badge {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1rem;
+  display: inline-block;
+  text-align: left;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  font-size: 0.9rem;
+  min-width: 260px;
+}
+
+.result-student-badge div {
+  margin-bottom: 0.25rem;
+}
+
+.result-student-badge strong {
+  color: var(--gray-900);
+}
+
+/* Recent Log List in Sidebar */
+.recent-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-height: 480px;
+  overflow-y: auto;
+}
+
+.recent-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem;
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+}
+
+.recent-item .stu-name {
+  font-weight: 700;
+  color: var(--gray-900);
+}
+
+.recent-item .stu-dept {
+  font-size: 0.75rem;
+  color: var(--gray-500);
+}
+
+.recent-item .time-pill {
+  font-size: 0.75rem;
+  background: var(--success-100);
+  color: var(--success-600);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-full);
+  font-weight: 700;
+}
