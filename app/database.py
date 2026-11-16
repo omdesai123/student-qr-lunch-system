@@ -2,10 +2,12 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 from app.config import settings
 
-# Handle Render PostgreSQL URL prefix (Render gives postgres://, SQLAlchemy requires postgresql://)
+# Handle Render PostgreSQL URL prefix (use psycopg2 driver)
 db_url = settings.DATABASE_URL
 if db_url.startswith("postgres://"):
-    db_url = db_url.replace("postgres://", "postgresql://", 1)
+    db_url = db_url.replace("postgres://", "postgresql+psycopg2://", 1)
+elif db_url.startswith("postgresql://") and "+psycopg2" not in db_url:
+    db_url = db_url.replace("postgresql://", "postgresql+psycopg2://", 1)
 
 connect_args = {}
 if db_url.startswith("sqlite"):
